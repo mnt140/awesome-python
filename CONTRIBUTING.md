@@ -1,6 +1,8 @@
 # Contributing
 
 Your contributions are always welcome!
+Bitte sende eine Mail an: Dein Lieblingsmitarbeiter@com
+
 
 ## Guidelines
 
